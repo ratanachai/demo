@@ -1,14 +1,11 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "members": [
+    { "id": 1, "name": "Ratanachai S." },
+    { "id": 2, "name": "Ekaluck C." },
+    { "id": 3, "name": "Petch K." }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "transactions": [
+    { "id": 1, "tr_type": "payback", "amount": 10000, "member_id": 1 },
+    { "id": 2, "tr_type": "payback", "amount": 10000, "member_id": 1 }
+  ]
 }
