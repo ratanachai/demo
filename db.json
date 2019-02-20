@@ -5,7 +5,7 @@
     { "id": 3, "name": "Petch K." }
   ],
   "transactions": [
-    { "id": 1, "tr_type": "payback", "amount": 10000, "member_id": 1 },
-    { "id": 2, "tr_type": "payback", "amount": 10000, "member_id": 1 }
+    { "id": 1, "tr_type": "payback", "amount": 10000, "memberId": 1 },
+    { "id": 2, "tr_type": "payback", "amount": 10000, "memberId": 1 }
   ]
 }
